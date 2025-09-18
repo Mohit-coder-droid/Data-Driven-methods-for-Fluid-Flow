@@ -24,10 +24,6 @@ from this data.
 
 
 
-
-
-For questions or comments, email Matthew Golden at mgolden30@gatech.edu
-
 Disclaimer:
 SPIDER is not a fully automated process (although Daniel Gurevich is working on an automated version in Python).
 
